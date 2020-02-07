@@ -1,0 +1,12 @@
+{
+  "appId": "com.ionicthemes.ionic4fullapp",
+  "appName": "Ionic4FullApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
