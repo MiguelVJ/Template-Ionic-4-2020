@@ -26,7 +26,7 @@
     "@angular/router": "8.2.1",
     "@angular/service-worker": "8.2.1",
     "@capacitor/android": "^1.0.0",
-    "@capacitor/cli": "^1.0.0",
+    "@capacitor/cli": "^1.5.3",
     "@capacitor/core": "^1.0.0",
     "@capacitor/ios": "^1.0.0",
     "@ionic/angular": "^4.7.4",
